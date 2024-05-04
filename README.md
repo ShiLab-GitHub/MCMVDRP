@@ -1,5 +1,5 @@
-# MCMMDRP
-The source code of paper "A Multi-Channel  Multi-Modal Deep Learning Framework for Cancer Drug Response Prediction"
+# MCMVDRP
+The source code of paper "A Multi-Channel Multi-View Deep Learning Framework for Cancer Drug Response Prediction"
 # Resources:
 * README.md: this file.
 * data: GDSC dataset
