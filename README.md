@@ -1,5 +1,5 @@
 # MCMVDRP
-The source code of paper "A Multi-Channel Multi-View Deep Learning Framework for Cancer Drug Response Prediction"
+The source code of paper [MCMVDRP: a multi-channel multi-view deep learning framework for cancer drug response prediction.](https://doi.org/10.1515/jib-2024-0026)
 # Resources:
 * README.md: this file.
 * data: GDSC dataset
